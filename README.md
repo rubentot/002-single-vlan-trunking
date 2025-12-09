@@ -1,6 +1,5 @@
 # 002 – Single VLAN Across Two Switches (Trunking Lab)
 
-Real-hardware lab • Cisco Catalyst 3560-24PS + 2960-24PS • 802.1Q trunking
 
 ![Topology](Topology.png)
 
